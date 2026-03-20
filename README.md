@@ -70,25 +70,18 @@ Micro Contributions → Insurance Pool → Verified Claim → Instant Payout
 
 ## 🔄 Application Workflow
 
-Worker Registration
-↓
-Micro Contribution per Order
-↓
-Worker Active in Delivery Zone
-↓
-Disruption Occurs
-↓
-Worker Reports + Uploads Image
-↓
-Multi-Signal Verification Engine
-↓
-Worker Activity Validation
-↓
-AI Income Prediction
-↓
-Loss Calculation
-↓
-Automatic Payout from Pool
+→ Worker Registration  
+→ Micro Contribution (₹2–₹3 per delivery)  
+→ Insurance Pool Formation  
+→ Worker Active in Delivery Zone  
+→ Disruption Occurs  
+→ Worker Reports + Uploads Image  
+→ Disruption Verification (Weather + AQI + Traffic + Crowd + Curfew)  
+→ Worker Activity Check  
+→ AI Income Prediction  
+→ Income Loss Calculation  
+→ Claim Verification  
+→ Automatic Payout from Pool  
 
 <img width="1536" height="1024" alt="d6f5b4c5-efdd-4a13-852a-bd1cea96215d" src="https://github.com/user-attachments/assets/3bebafbd-f5e8-4e37-94f7-6a9d57f23fd4" />
 
